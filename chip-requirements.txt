@@ -1,0 +1,4 @@
+# Navi Linuxkit runs on the Python standard library alone — there is
+# nothing to install and nothing optional. The chip is a reference and
+# a calculator by design: it executes no shell commands and reads no
+# host files, so it needs no extras of any kind.
